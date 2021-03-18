@@ -1,0 +1,1 @@
+# No AntiAliasing HQ2x upscaling filter
