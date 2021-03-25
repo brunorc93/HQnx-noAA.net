@@ -10,7 +10,7 @@ This is one module of a series used on Unity3D to generate island meshes. Other 
 * [Island Shape](https://github.com/brunorc93/islandShapeGen.net)  
 * [Biome Growth](https://github.com/brunorc93/BiomeGrowth.net)  
 * [Noise - previous](https://github.com/brunorc93/noise)  
-* [empty repo](empty repo)  
+* [Generator preview - minimap - next](https://github.com/brunorc93/minimap)
 
 > (more links will be added as soon as the modules are ported onto C#.net).  
 
